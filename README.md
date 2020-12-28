@@ -25,6 +25,7 @@ y <password> por la contraseña que previamente creaste.
 
 ### Creando nuestro proyecto
 Ahora crea una app node.js y simplemente escribe estas dos líneas:
+y también instala mongoose
 ```js
 const mongoose = require('mongoose')
 
