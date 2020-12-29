@@ -78,7 +78,7 @@ Ahora, queremos ver si hemos hecho todos estos pasos correctamente.
 Vamos a probar:
 ```js
 const data = await modelo.findOne({
-    Nombre: 'Fulatino'
+    Nombre: 'Fulanito'
 })
 
 if (!data) return console.log('No existe shit')
